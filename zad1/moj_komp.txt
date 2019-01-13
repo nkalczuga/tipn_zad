@@ -1,0 +1,4 @@
+pojemność dysku: 448GB
+ilość pamięci RAM: 4GB
+rodzaj i prędkość procesora: Intel(R) Celeron(R) CPU N3050 @ 1.60Hz
+czy system jest 32 czy 64-bitowy: 64-bitowy system operacyjny
